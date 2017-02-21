@@ -1,0 +1,7 @@
+resource = new UrlResource("file:////home/dir/file.txt");
+
+http://simplespringtutorial.com/resourceinjection.html
+
+http://docs.spring.io/spring-batch/reference/html/configureStep.html#d0e3266
+
+https://github.com/langmi/spring-batch-examples-readers/blob/master/src/main/resources/spring/batch/job/readers/file/file-archive-job.xml

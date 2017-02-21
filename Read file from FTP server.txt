@@ -1,0 +1,7 @@
+http://forum.spring.io/forum/spring-projects/integration/125734-ftp-file-download-using-spring-integration
+
+http://stackoverflow.com/questions/21673894/spring-batch-how-to-read-files-from-mount-point-created-in-unix-server-location
+http://stackoverflow.com/questions/19589640/spring-batch-writer-to-write-files-directly-to-ftp-location
+http://www.cs.rutgers.edu/~watrous/user-pass-url.html
+
+https://support.microsoft.com/en-us/kb/135975
